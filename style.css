@@ -1,0 +1,24 @@
+body {
+background:orangered;
+}
+
+
+.container {
+  display: flex;
+  /* width: 1000px; */
+  margin: 0 auto;
+  height: 400px;
+  margin-top: 150px;
+  max-width: 800px;
+  min-width: 700px;
+}
+
+.content {
+  background-color: aqua;
+  width: 50%;
+  height: 75%;
+}
+img {
+  width: 50%;
+  height: 75%;
+} 
